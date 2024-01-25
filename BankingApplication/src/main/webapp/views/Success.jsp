@@ -1,0 +1,1 @@
+<h1 style="color: red;">Account Created Successfully</h1>
